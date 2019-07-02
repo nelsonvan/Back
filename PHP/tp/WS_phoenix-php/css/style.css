@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    background: transparent;
+    height: 50px;
+    
+
+}
+.d-block{
+    height: 40rem;
+}
+footer.col-md-12{
+    background-color: #75c9c8;
+   height: 40px;
+}
+li{
+    float:left
+}
+ul{
+    list-style-type: none;
+}
+.nav{
+   
+}

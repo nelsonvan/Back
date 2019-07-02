@@ -1,0 +1,13 @@
+Dans le dossier POO : 
+    1 dossier 01-classes-objet-instance-visibilité
+        1 fichier Panier.class.php
+
+    1 dossier 02-getteur-setteur-constructeur
+        1 fichier Homme.class.php
+        1 fichier Etudiant.class.php
+
+    1 dossier 03-manipulation-type-arguments
+        1 fichier exercice3.php
+
+    1 dossier 04-constante-static-self
+        1 fichier Maison.class.php

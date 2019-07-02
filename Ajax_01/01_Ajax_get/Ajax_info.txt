@@ -1,0 +1,4 @@
+AJAX (asynchronus javascript and XML) mais on devrait plus l'appeler AJAJ (J pour format JSON)
+
+1 bonjour c'est lundi et ca pique !!! Et desolé du retard
+

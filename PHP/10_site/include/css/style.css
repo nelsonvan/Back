@@ -1,0 +1,12 @@
+.btn-primary{
+    margin-bottom: 5rem;
+
+
+}
+body{
+    background-color: radial-gradient(center top, green, blue);
+    font-family: 'Cairo', sans-serif;
+}
+input{
+    border-radius: 1.%;
+}
